@@ -49,7 +49,6 @@ function App() {
             <Card.Title>{prod.productName}</Card.Title>
             <Card.Text>{prod.price} RS</Card.Text>
             <Card.Text>{prod.rating} ♥</Card.Text>
-                        {/* conditional rendering */}
 
             <Button
              variant="primary"
